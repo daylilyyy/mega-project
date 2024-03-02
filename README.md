@@ -13,7 +13,7 @@
 
 ## LINK
 
-![main](https://github.com/daylilyyy/megabox-project/assets/160338418/f5d1e777-3248-4b53-b0e2-d71635511c17)
+![스크린샷 2024-03-02 222538](https://github.com/daylilyyy/mega-project/assets/160338418/0220ecac-0084-48f1-81fa-b96b9668edc3)
 
 <img >
 [LINK](https://daylily-megabox.netlify.app/)
