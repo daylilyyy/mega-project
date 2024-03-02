@@ -64,7 +64,7 @@ const MegaMain = () => {
   return (
     <Container>
       <h2 className="logo">
-        <img src="./public/images/logo.png" alt="" />
+        <img src="./images/logo.png" alt="" />
       </h2>
       <MegaSearch onSearch={onSearch} dataList={dataList} />
       <MegaMenu onShowScreen={onShowScreen} />

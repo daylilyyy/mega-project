@@ -23,7 +23,7 @@ const MegaItem = ({ item, onLike, onPopup }) => {
         </button>
         <button className="btn2">예매</button>
         <button className="btn2">
-          <img src="./public/images/btn.png" alt="" />
+          <img src="./images/btn.png" alt="" />
         </button>
       </p>
     </MegaItemBox>
