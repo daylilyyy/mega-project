@@ -22,23 +22,23 @@
 
 ### 1. main
 
-![main-ezgif com-video-to-gif-converter (1)](https://github.com/daylilyyy/megabox-project/assets/160338418/d37f6468-6a60-42ea-9365-fd4e71cf39c0)
+![main-ezgif com-video-to-gif-converter (1)](https://github.com/daylilyyy/mega-project/assets/160338418/2a86d066-af08-43ac-a439-06ad6d3f1789)
 
 ### 2. click
 
-![click-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/megabox-project/assets/160338418/a2f54286-5c64-4047-84a1-c749495fb875)
+![click-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/mega-project/assets/160338418/d6a75871-98b2-4c0d-b485-983aa9577b4c)
 
 - item hover 기능 구현
 - item 클릭시 영화 정보 확인 가능
 
 ### 3. paging
 
-![paging-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/megabox-project/assets/160338418/9584397c-3c3d-4dca-8cf6-3b5aeb6330bc)
+![paging-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/mega-project/assets/160338418/96edf56d-828d-4a9a-b234-1554f1273ec2)
 
 - paging 기능을 구현하여 한페이지에 최대 8개씩 출력
 
 ### 3. search
 
-![search-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/megabox-project/assets/160338418/7438d398-976b-483d-bc42-59c72f9e7ac3)
+![search-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/mega-project/assets/160338418/65e4ef4c-ea34-40ff-856e-51c4088239fd)
 
 - 검색기능을 통해 데이터 내 출력 가능
