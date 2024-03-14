@@ -9,7 +9,36 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=sty ledcomponents&logoColor=white">
 
----
+## 컴포넌트 구조
+
+```
+MEGABOX
+│
+├──public
+│    └── images
+└── src
+    ├── assets
+    │
+    ├── components
+    │    │
+    │    ├──── megabox
+    │    │        └──┬── MegaItem.jsx
+    │    │           ├── MegaLIst.jsx
+    │    │           ├── MegaMain.jsx
+    │    │           ├── MegaMenu.jsx
+    │    │           ├── MegaPaging.jsx
+    │    │           ├── MegaPopup.jsx
+    │    │           ├── MegaSearch.jsx
+    │    │           └── MegaPopup.jsx
+    │    │
+    │    │
+    │    └── styled
+    │           └──┬── Global.jsx
+    │              ├── megaboxStyle.js
+    │              └── megaData.json
+    │
+    └── App.jsx
+```
 
 ## LINK
 
