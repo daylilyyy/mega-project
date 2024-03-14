@@ -32,7 +32,7 @@ MEGABOX
     │    │           └── MegaPopup.jsx
     │    │
     │    │
-    │    └── styled
+    │    └──── styled
     │           └──┬── Global.jsx
     │              ├── megaboxStyle.js
     │              └── megaData.json
