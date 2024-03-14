@@ -33,9 +33,9 @@ MEGABOX
     │    │
     │    │
     │    └──── styled
-    │           └──┬── Global.jsx
-    │              ├── megaboxStyle.js
-    │              └── megaData.json
+    │             └──┬── Global.jsx
+    │                ├── megaboxStyle.js
+    │                └── megaData.json
     │
     └── App.jsx
 ```
