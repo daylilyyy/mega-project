@@ -70,4 +70,4 @@ MEGABOX
 
 ![search-ezgif com-video-to-gif-converter](https://github.com/daylilyyy/mega-project/assets/160338418/65e4ef4c-ea34-40ff-856e-51c4088239fd)
 
-- 검색기능을 통해 데이터 내 출력 가능
+- 검색기능을 통해 데이터 내 원하는 아이템 출력 가능
