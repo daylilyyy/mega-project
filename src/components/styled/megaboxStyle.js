@@ -33,6 +33,7 @@ export const MegaSearchForm = styled.form`
     margin-right: 5px;
     color: #503396;
     font-weight: 900;
+    
 
     &::placeholder {
       color: #e2e2e2;
